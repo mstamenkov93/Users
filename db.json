@@ -1,0 +1,106 @@
+{
+  "users": [
+    {
+      "id": "c362",
+      "name": "Martin Stamenkov",
+      "email": "martinnstamenkov@gmail.com",
+      "phone": "0899117535"
+    },
+    {
+      "id": "1fb5",
+      "name": "Мартин Стаменков",
+      "email": "martinnstamenkov@gmail.com",
+      "phone": "0988753369"
+    },
+    {
+      "id": "fda2",
+      "name": "Ivan",
+      "email": "ivan.s@ext.sys.com",
+      "phone": "092223369"
+    },
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "john@example.com",
+      "phone": "123-456-7890"
+    },
+    {
+      "id": "2",
+      "name": "Jane Smith",
+      "email": "jane@example.com",
+      "phone": "234-567-8901"
+    },
+    {
+      "id": "3",
+      "name": "Alice Johnson",
+      "email": "alice@example.com",
+      "phone": "345-678-9012"
+    },
+    {
+      "id": "4",
+      "name": "Bob Brown",
+      "email": "bob@example.com",
+      "phone": "456-789-0123"
+    },
+    {
+      "id": "5",
+      "name": "Emily Davis",
+      "email": "emily@example.com",
+      "phone": "567-890-1234"
+    },
+    {
+      "id": "6",
+      "name": "Michael Wilson",
+      "email": "michael@example.com",
+      "phone": "678-901-2345"
+    },
+    {
+      "id": "7",
+      "name": "Sophia Taylor",
+      "email": "sophia@example.com",
+      "phone": "789-012-3456"
+    },
+    {
+      "id": "8",
+      "name": "David Martinez",
+      "email": "david@example.com",
+      "phone": "890-123-4567"
+    },
+    {
+      "id": "9",
+      "name": "Olivia Anderson",
+      "email": "olivia@example.com",
+      "phone": "901-234-5678"
+    },
+    {
+      "id": "10",
+      "name": "James Thompson",
+      "email": "james@example.com",
+      "phone": "012-345-6789"
+    },
+    {
+      "id": "6389",
+      "name": "Silvia Zlatkova",
+      "email": "sislava@abv.bg",
+      "phone": "0899117535"
+    },
+    {
+      "id": "49b3",
+      "name": "Gosho",
+      "email": "gosho@otPochivka.com",
+      "phone": "11123333232"
+    },
+    {
+      "id": "a983",
+      "name": "Martin Stamenkov",
+      "email": "martin.s@sys.com",
+      "phone": "0988753369"
+    },
+    {
+      "id": "b394",
+      "name": "Ivan Ivanov",
+      "email": "ivanonv@gmail.com",
+      "phone": "123322123"
+    }
+  ]
+}
